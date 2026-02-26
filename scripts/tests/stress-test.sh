@@ -2,6 +2,8 @@
 ######################################################################################
 ## PROGRAM   : stress-test.sh
 ## PROGRAMER : Brett Collingwood
+## EMAIL-1   : brett@amperecomputing.com
+## EMAIL-2   : brett.a.collingwood@gmail.com
 ## MUSE      : Kit
 ## VERSION   : 1.0.0
 ## DATE      : 2026-02-25
