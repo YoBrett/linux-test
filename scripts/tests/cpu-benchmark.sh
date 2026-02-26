@@ -3,8 +3,8 @@
 ## PROGRAM   : cpu-benchmark.sh
 ## PROGRAMER : Brett Collingwood
 ## MUSE      : Kit
-## VERSION   : 1.2.0
-## DATE      : 2026-02-23
+## VERSION   : 1.0.0
+## DATE      : 2026-02-25
 ## PURPOSE   : CPU performance benchmarks (Sysbench, 7-zip, OpenSSL)
 ## #---------------------------------------------------------------------------------#
 ## THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
