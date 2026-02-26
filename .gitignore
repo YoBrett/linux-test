@@ -1,0 +1,26 @@
+# Results directory (generated at runtime)
+scripts/results/*
+!scripts/results/.gitkeep
+
+# Packages (generated)
+*.tar.gz
+*.sha256
+
+# Logs
+*.log
+*.log.bak
+*.log.bak.gz
+
+# Temp files
+/tmp/linux-test-*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
