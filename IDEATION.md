@@ -50,6 +50,10 @@ A collection of test scripts to validate, benchmark, and stress-test Linux proce
 - Safe temp file creation with mktemp
 - Graceful sudo handling with fallback options
 
+## Todo
+
+- [ ] Add instruction to build to /tmp
+
 ## Notes
 
 - **Disclaimer:** Use Not Intended For Benchmarking Purposes.
