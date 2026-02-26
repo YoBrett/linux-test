@@ -31,7 +31,7 @@ A collection of test scripts to validate, benchmark, and stress-test Linux proce
 | `tests/thermal-monitor.sh` | Temperature monitoring |
 | `tests/gather-config.sh` | Hardware info gathering |
 
-## Features (v1.2.0)
+## Features (v1.0.0)
 
 - **Interactive Menus**: Dialog-based or text fallback
 - **Progress Indicators**: Spinner in text mode, infobox in dialog mode
@@ -43,7 +43,7 @@ A collection of test scripts to validate, benchmark, and stress-test Linux proce
 - **Checksum Generation**: SHA256 for packages
 - **Sudo Handling**: Toggle privileged commands on/off
 
-## Security Improvements (v1.2.0)
+## Security Improvements (v1.0.0)
 
 - Input validation for all user-provided values
 - Path sanitization to prevent command injection
@@ -53,9 +53,7 @@ A collection of test scripts to validate, benchmark, and stress-test Linux proce
 ## Notes
 
 - **Disclaimer:** Use Not Intended For Benchmarking Purposes.
-- Renamed from "Ampere Test Suite" to "Linux Test Suite" in v1.1.0.
-- Major security and UX improvements in v1.2.0.
 
 ---
 
-Updated: 2026-02-23
+Updated: 2026-02-25
