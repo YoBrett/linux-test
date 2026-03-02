@@ -72,7 +72,6 @@ DEPENDENCIES=(
     "sar:sysstat"
     "lsdev:procinfo"
     "bc"
-    "bandwhich"
 )
 
 # List of available tests
